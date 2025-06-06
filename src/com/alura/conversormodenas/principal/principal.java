@@ -5,7 +5,7 @@ import com.alura.conversormodenas.modelo.Conversion;
 
 import java.util.Scanner;
 
-public class principaldos {
+public class principal {
 
     public static void main(String[] args) {
         Scanner lectura = new Scanner(System.in);
