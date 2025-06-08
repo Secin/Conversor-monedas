@@ -28,5 +28,5 @@ Para el desarrollo de la app se utilizo el consumo de la api Exchange Rate API. 
 [https://v6.exchangerate-api.com/v6/4d51da5836acdbe491917bcc/pair/PEN/USD ](https://v6.exchangerate-api.com/v6/4d51da5836acdbe491917bcc/pair/PEN/USD)
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/cdc18567-beee-4d0c-b3df-646e5bae1fa3" />
 
-Nuestra APP de conversor de monedas esta implementada con 3 clases modelos, una clase de Exepcion para los errores de nuestra aplicación y una clase llamada principal para ejeuctar el funcionamiento de nustra aplicación.
+Nuestra APP de conversor de monedas esta implementada con 3 clases modelos, una clase de Exepcion para los errores de nuestra aplicación y una clase llamada principal para ejeuctar el funcionamiento de nuestra aplicación.
 
